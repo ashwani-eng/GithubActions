@@ -9,6 +9,7 @@ jobs:
         with:
           python-version: '3.10'
       - run: ls
-      - run: mkdir ashwini
-      - run: pwd
+      - run: mkdir ashwani
+  
+
       
